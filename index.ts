@@ -3,7 +3,7 @@ import './style.css';
 
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
-appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
+appDiv.innerHTML = `<h1>Algorithm Challenge 1</h1>`;
 
 function absoluteValuesSumMinimization(a: number[]): number {
   const isEven = a.length % 2 === 0;
